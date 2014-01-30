@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+}
+ul {
+	background-color: blue;
+	color: yellow;
+	list-style-type: none;
+	text-align: center;
+}
+li {
+	display: inline;
+	padding: 3%;
+}
